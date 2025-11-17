@@ -15,7 +15,7 @@ pip install psutil plyer matplotlib wmi
 
 2. Run the Application
 ```
-python servertemp_monitor.py
+python temperatureTool.py
 ```
 
 4. Enable Real Hardware Monitoring (Recommended)
